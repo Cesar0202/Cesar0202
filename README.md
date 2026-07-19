@@ -6,6 +6,3 @@
 - 🧠 Enfocado en IA aplicada a la educación
 
 🌐 Visita mi portafolio: [portfolio-cesar-huriarte-projects.vercel.app](https://portfolio-cesar-huriarte-projects.vercel.app/)
-
-![Cesar's languages](https://github-profile-summary-cards.vercel.app/api/cards/stats?username=Cesar0202&theme=tokyonight)
-![Cesar's top languages](https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=Cesar0202&theme=tokyonight)
